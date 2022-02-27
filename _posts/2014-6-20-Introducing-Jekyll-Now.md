@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Jekyll Now
+title: İlk deneme
 published: true
 ---
 ## Hello arkadaşlar
